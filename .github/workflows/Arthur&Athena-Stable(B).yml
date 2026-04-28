@@ -8,7 +8,7 @@ on:
 
 env:
   REPO_URL: https://github.com/LiBwrt/openwrt-6.x.git
-  REPO_BRANCH: openwrt-24.10
+  REPO_BRANCH: openwrt-25.12
   CONFIG_FILE: configs/Arthur&Athena.config
   DIY_SCRIPT: scripts/Roc-script.sh
   CLASH_KERNEL: amd64
